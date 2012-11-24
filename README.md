@@ -5,7 +5,7 @@
 <hr />
 <div>
 <h2>Optional Mods</h2>
-<dd><ul><li>Dynmap</li><li>LoginMessage</li></ul>
+<dd><ul><li><a href="#dynmap">Dynmap</a></li><li><a href="#loginmessage">LoginMessage</a></li></ul>
 </dd>
 </div>
 <div id="dynmap">
