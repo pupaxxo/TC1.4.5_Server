@@ -1,0 +1,69 @@
+# BuildCraft Block mapping
+modname:mod_BuildCraftCore,BuildCraft|Core
+# Defaults
+var:template.id=0,architect.id=0
+# configuration file
+cfgfile:buildcraft/config/buildcraft.cfg
+cfgfile:config/buildcraft/main.conf
+# Pipe
+customblock:id=pipe.id,data=*,class=org.dynmap.hdmap.renderer.FrameRenderer,linkset=pipes,linkid_0=pipe.id,linkid_1=entine.id,linkid_2=tank.id,linkid_3=miningWell.id,linkid_4=quarry.id,linkid_5=autoWorkbench.id,linkid_6=drill.id,linkid_7=filler.id,linkid_8=refinery.id,linkid_9=pump.id
+# Frame
+customblock:id=frame.id,data=*,class=org.dynmap.hdmap.renderer.FrameRenderer,linkset=frame,linkid_0=frame.id
+# Drill
+customblock:id=drill.id,data=*,class=org.dynmap.hdmap.renderer.FrameRenderer,linkset=pipes,linkid_0=drill.id,force=Yy
+# Marker
+block:id=marker.id,data=*,scale=8
+layer:0,1,2,3,4,5,6,7
+--------
+--------
+---**---
+--****--
+--****--
+---**---
+--------
+--------
+# Engine
+block:id=engine.id,data=*,scale=8
+layer:2,3
+********
+********
+********
+********
+********
+********
+********
+********
+layer:4,5,6,7
+--------
+--------
+--****--
+--****--
+--****--
+--****--
+--------
+--------
+# Oil, flowing
+block:id=oilMoving.id,data=*,scale=4
+layer:0
+****
+****
+****
+****
+# Oil
+block:id=oilStill.id,data=*,scale=4
+layer:0,1
+****
+****
+****
+****
+# Tank
+block:id=tank.id,data=*,scale=8
+layer:0,1,2,3,4,5,6,7
+--------
+-******-
+-******-
+-******-
+-******-
+-******-
+-******-
+--------

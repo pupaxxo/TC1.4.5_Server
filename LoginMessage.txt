@@ -1,0 +1,4 @@
+&eWelcome to SERVERNAME &eserver, &b%nm&e!!&0&0&1&2&3&4&5&6&7&e&f
+Server capacity: %size/%max
+Currently online: %ol
+You can modify it in ServerFolder/LoginMessage.txt

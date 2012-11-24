@@ -1,0 +1,16 @@
+# RedPower2 Core block mapping
+modname:mod_RedPowerCore,RedPowerCore
+# configuration file
+cfgfile:redpower/redpower.cfg
+
+# Files
+texturefile:id=base,filename=eloraam/base/base1.png,xcount=16,ycount=16
+############
+# Blocks from RedPowerCore-2
+############
+# Alloy Furnace (base.appliance.id, 0)
+block:id=base/appliance.id,data=0,topbottom=6019,north=18,south=16,east=16,west=16,txtid=base
+# Advanced Bench (base.appliance.id, 1)
+block:id=base/appliance.id,data=1,bottom=6035,top=6032,north=34,south=33,east=33,west=33,txtid=base
+# Microblocks (base.microblock.id, 0) - can't do this right yet, so just do it as cobblestone...
+#block:id=base/microblock.id,data=0,allfaces=16
