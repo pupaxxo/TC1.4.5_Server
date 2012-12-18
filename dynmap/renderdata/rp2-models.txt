@@ -1,5 +1,0 @@
-# RedPower2 Core block mapping
-#modname:mod_RedPowerCore,RedPowerCore
-# configuration file
-#cfgfile:redpower/redpower.cfg
-

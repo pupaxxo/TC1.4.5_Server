@@ -1,0 +1,390 @@
+2012-12-09 12:01:15 [INFO] Starting minecraft server version 1.4.5
+2012-12-09 12:01:28 [INFO] Loading properties
+2012-12-09 12:01:28 [INFO] Default game type: SURVIVAL
+2012-12-09 12:01:28 [INFO] Generating keypair
+2012-12-09 12:01:28 [INFO] Starting Minecraft server on *:25565
+2012-12-09 12:01:33 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Impossibile trovare il file specificato)
+2012-12-09 12:01:33 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Impossibile trovare il file specificato)
+2012-12-09 12:01:33 [INFO] Preparing level "world"
+2012-12-09 12:01:34 [INFO] Preparing start region for level 0
+2012-12-09 12:01:35 [INFO] Preparing spawn area: 8%
+2012-12-09 12:01:36 [INFO] Preparing spawn area: 16%
+2012-12-09 12:01:37 [INFO] Preparing spawn area: 25%
+2012-12-09 12:01:38 [INFO] Preparing spawn area: 32%
+2012-12-09 12:01:39 [INFO] Preparing spawn area: 40%
+2012-12-09 12:01:40 [INFO] Preparing spawn area: 49%
+2012-12-09 12:01:41 [INFO] Preparing spawn area: 58%
+2012-12-09 12:01:42 [INFO] Preparing spawn area: 66%
+2012-12-09 12:01:43 [INFO] Preparing spawn area: 74%
+2012-12-09 12:01:44 [INFO] Preparing spawn area: 81%
+2012-12-09 12:01:45 [INFO] Preparing spawn area: 87%
+2012-12-09 12:01:46 [INFO] Preparing spawn area: 94%
+2012-12-09 12:01:47 [INFO] Done (14,039s)! For help, type "help" or "?"
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: mods command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: colors command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: login command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: register command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: logoff command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: addgroup command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: addpermission command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: addpermissiongroup command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: delgroup command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: delpermission command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: delpermissiongroup command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: joingroup command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: leavegroup command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: delregion command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: listlock command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: listregion command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: lock command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: setregion command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: share command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: unlock command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: unshare command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: warp command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: summon command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: y command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: n command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: setwarp command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: back command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: setspawn command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: spawn command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: sethome command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: home command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: top command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: delhome command was registered.
+2012-12-09 12:01:47 [INFO] [fihgu's Mods]: delwarp command was registered.
+2012-12-09 12:01:47 [INFO] [dynmap] Added 46 custom biome mappings
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\configuration.txt not found - creating default
+2012-12-09 12:01:48 [SEVERE] [dynmap] Error reading dynmap\markers.yml
+2012-12-09 12:01:48 [INFO] [dynmap] BuildCraft|Core models enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 9 of dynmap\renderdata\bc-models.txt
+2012-12-09 12:01:48 [INFO] [dynmap] EnderStorage models enabled
+2012-12-09 12:01:48 [INFO] [dynmap] ExtrabiomesXL models enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 21 of dynmap\renderdata\extrabiomesxl3-models.txt
+2012-12-09 12:01:48 [INFO] [dynmap] IC2 models enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 6 of dynmap\renderdata\ic2-models.txt
+2012-12-09 12:01:48 [INFO] [dynmap] IC2NuclearControl models enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 21 of dynmap\renderdata\ic2-nuclearcontrol-models.txt
+2012-12-09 12:01:48 [INFO] [dynmap] IronChest models enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 7 of dynmap\renderdata\ironchest-models.txt
+2012-12-09 12:01:48 [INFO] [dynmap] Railcraft models enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 16 of dynmap\renderdata\railcraft-models.txt
+2012-12-09 12:01:48 [INFO] [dynmap] BuildCraft|Core textures enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 14 of dynmap\renderdata\bc-texture.txt
+2012-12-09 12:01:48 [INFO] [dynmap] ComputerCraft textures enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 13 of dynmap\renderdata\computercraft-texture.txt
+2012-12-09 12:01:48 [INFO] [dynmap] EnderStorage textures enabled
+2012-12-09 12:01:48 [INFO] [dynmap] ExtrabiomesXL textures enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 12 of dynmap\renderdata\extrabiomesxl3-texture.txt
+2012-12-09 12:01:48 [INFO] [dynmap] Forestry textures enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 10 of dynmap\renderdata\forestry-texture.txt
+2012-12-09 12:01:48 [INFO] [dynmap] IC2NuclearControl textures enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 10 of dynmap\renderdata\ic2-nuclearcontrol-texture.txt
+2012-12-09 12:01:48 [INFO] [dynmap] IC2 textures enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 16 of dynmap\renderdata\ic2-texture.txt
+2012-12-09 12:01:48 [INFO] [dynmap] IronChest textures enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 15 of dynmap\renderdata\ironchest-texture.txt
+2012-12-09 12:01:48 [INFO] [dynmap] Railcraft textures enabled
+2012-12-09 12:01:48 [SEVERE] [dynmap] Format error - line 12 of dynmap\renderdata\railcraft-texture.txt
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\worlds.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\normal.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\nether.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\skylands.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\normal-lowres.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\nether-lowres.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\skylands-lowres.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\normal-hires.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\nether-hires.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\skylands-hires.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\normal-vlowres.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\skylands-vlowres.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\nether-vlowres.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\the_end.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\the_end-vlowres.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\the_end-lowres.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\templates\the_end-hires.txt not found - creating default
+2012-12-09 12:01:48 [INFO] [dynmap] dynmap\shaders.txt not found - creating default
+2012-12-09 12:01:49 [INFO] [dynmap] dynmap\custom-shaders.txt not found - creating default
+2012-12-09 12:01:49 [INFO] [dynmap] Loaded 21 shaders.
+2012-12-09 12:01:49 [INFO] [dynmap] dynmap\perspectives.txt not found - creating default
+2012-12-09 12:01:49 [INFO] [dynmap] dynmap\custom-perspectives.txt not found - creating default
+2012-12-09 12:01:49 [INFO] [dynmap] Loaded 82 perspectives.
+2012-12-09 12:01:49 [INFO] [dynmap] dynmap\lightings.txt not found - creating default
+2012-12-09 12:01:49 [INFO] [dynmap] dynmap\custom-lightings.txt not found - creating default
+2012-12-09 12:01:49 [INFO] [dynmap] Loaded 12 lightings.
+2012-12-09 12:01:50 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2012-12-09 12:01:50 [INFO] [dynmap] version 1.2-alpha-1 is enabled - core version 1.2-dev
+2012-12-09 12:01:50 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2012-12-09 12:01:50 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2012-12-09 12:01:50 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2012-12-09 12:01:50 [INFO] [dynmap] Loaded 3 maps of world 'world_7'.
+2012-12-09 12:01:50 [INFO] [dynmap] Enabled
+2012-12-09 12:02:14 [INFO] /127.0.0.1:1219 lost connection
+2012-12-09 12:02:15 [INFO] User pupaxxo connection failed: missing [], bad versions [EE3]
+2012-12-09 12:02:15 [INFO] Disconnecting pupaxxo [/127.0.0.1:1220]: The server requires mods that are absent or out of date on your client
+2012-12-09 12:03:09 [INFO] User pupaxxo connecting with mods [ThermalExpansion|NEI, TwilightForest, BuildCraft|Transport, ChargePads, ImmibisPeripherals, AdvancedPowerManagement, snyke7_Transformers, ThermalExpansion|Energy, Thaumcraft, Forestry, BasicComponents, GraviGun, IronChest, ICBM, BuildCraft|Energy, Railcraft, ImmibisCore, EE3, MiscPeripherals, LogisticsPipes|Main, PortalGun, ModularForceFieldSystem, factorization, XyCraft, ThermalExpansion, BuildCraft|Silicon, APUnofficial, jammyfurniture, GraviSuite, IC2NuclearControl, BuildCraft|Core, ThermalExpansion|Factory, DimensionalAnchors, IC2, StevesCarts, ExtrabiomesXL, Mystcraft, ComputerCraft, AdvancedSolarPanel, TreeCapitator, BuildCraft|Factory, ValvePipe, CCTurtle, WeatherMod, Tubestuff, snyke7_AdvancedMachines, Advanced_Alloys, BuildCraft|Builders, LoginMessage, AIBlock]
+2012-12-09 12:03:09 [INFO] pupaxxo[/127.0.0.1:1261] logged in with entity id 4238 at (51.5, 68.62000000476837, 261.5)
+2012-12-09 12:06:26 [INFO] <pupaxxo> casa
+2012-12-09 12:09:34 [INFO] pupaxxo lost connection: disconnect.quitting
+2012-12-09 12:09:35 [INFO] /127.0.0.1:1476 lost connection
+2012-12-09 12:09:44 [INFO] User pupaxxo connecting with mods [ThermalExpansion|NEI, TwilightForest, BuildCraft|Transport, ChargePads, ImmibisPeripherals, AdvancedPowerManagement, snyke7_Transformers, ThermalExpansion|Energy, Thaumcraft, Forestry, BasicComponents, GraviGun, IronChest, ICBM, BuildCraft|Energy, Railcraft, ImmibisCore, EE3, MiscPeripherals, LogisticsPipes|Main, PortalGun, ModularForceFieldSystem, factorization, XyCraft, ThermalExpansion, BuildCraft|Silicon, APUnofficial, jammyfurniture, GraviSuite, IC2NuclearControl, BuildCraft|Core, ThermalExpansion|Factory, DimensionalAnchors, IC2, StevesCarts, ExtrabiomesXL, Mystcraft, ComputerCraft, AdvancedSolarPanel, TreeCapitator, BuildCraft|Factory, ValvePipe, CCTurtle, WeatherMod, Tubestuff, snyke7_AdvancedMachines, Advanced_Alloys, BuildCraft|Builders, LoginMessage, AIBlock]
+2012-12-09 12:09:44 [INFO] pupaxxo[/127.0.0.1:1485] logged in with entity id 12323 at (38.61056923525355, 67.0, 229.75387139206077)
+2012-12-09 12:11:01 [INFO] pupaxxo lost connection: disconnect.genericReason
+2012-12-09 12:12:35 [INFO] Stopping the server
+2012-12-09 12:12:35 [INFO] [dynmap] Unloaded 11 components.
+2012-12-09 12:12:35 [INFO] [dynmap] Stopping map renderer...
+2012-12-09 12:12:35 [INFO] [dynmap] Saved 328 pending tile renders in world 'world
+2012-12-09 12:12:35 [INFO] [dynmap] Disabled
+2012-12-09 12:12:35 [INFO] Stopping server
+2012-12-09 12:12:35 [INFO] Saving players
+2012-12-09 12:12:35 [INFO] Saving worlds
+2012-12-09 12:12:35 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-09 12:12:35 [INFO] Saving chunks for level 'world'/Nether
+2012-12-09 12:12:35 [INFO] Saving chunks for level 'world'/The End
+2012-12-09 12:12:35 [INFO] Saving chunks for level 'world'/Twilight Forest
+2012-12-09 12:12:35 [INFO] Stopping server
+2012-12-09 12:12:35 [INFO] Saving players
+2012-12-09 12:12:35 [INFO] Saving worlds
+2012-12-18 16:30:25 [INFO] Starting minecraft server version 1.4.5
+2012-12-18 16:30:27 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: ayh
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.ModClassLoader.loadBaseModClass(ModClassLoader.java:87)
+	at cpw.mods.fml.common.modloader.ModLoaderModContainer.constructMod(ModLoaderModContainer.java:488)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:478)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:82)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:343)
+	at ho.c(DedicatedServer.java:49)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:461)
+	at fy.run(SourceFile:856)
+Caused by: java.lang.ClassNotFoundException: ayh
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:141)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 30 more
+Caused by: java.lang.RuntimeException: Attempted to load class ayh for invalid side SERVER
+	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:38)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.runTransformers(RelaunchClassLoader.java:178)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:133)
+	... 32 more
+2012-12-18 16:30:27 [SEVERE] This crash report has been saved to: C:\Users\Andrea\Desktop\Server1.4.5 - Copia\.\crash-reports\crash-2012-12-18_16.30.27-server.txt
+2012-12-18 16:31:11 [INFO] Starting minecraft server version 1.4.5
+2012-12-18 16:31:13 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: bdm
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:410)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:478)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:82)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:343)
+	at ho.c(DedicatedServer.java:49)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:461)
+	at fy.run(SourceFile:856)
+Caused by: java.lang.ClassNotFoundException: bdm
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:141)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 29 more
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at codechicken.core.asm.ClassHeirachyManager.transform(ClassHeirachyManager.java:80)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.runTransformers(RelaunchClassLoader.java:178)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:133)
+	... 31 more
+2012-12-18 16:31:13 [SEVERE] This crash report has been saved to: C:\Users\Andrea\Desktop\Server1.4.5 - Copia\.\crash-reports\crash-2012-12-18_16.31.13-server.txt
+2012-12-18 16:32:03 [INFO] Starting minecraft server version 1.4.5
+2012-12-18 16:32:05 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: bdm
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:410)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:478)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:82)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:343)
+	at ho.c(DedicatedServer.java:49)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:461)
+	at fy.run(SourceFile:856)
+Caused by: java.lang.ClassNotFoundException: bdm
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:141)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 29 more
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at codechicken.core.asm.ClassHeirachyManager.transform(ClassHeirachyManager.java:80)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.runTransformers(RelaunchClassLoader.java:178)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:133)
+	... 31 more
+2012-12-18 16:32:05 [SEVERE] This crash report has been saved to: C:\Users\Andrea\Desktop\Server1.4.5 - Copia\.\crash-reports\crash-2012-12-18_16.32.05-server.txt
+2012-12-18 16:32:55 [INFO] Starting minecraft server version 1.4.5
+2012-12-18 16:32:57 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: bdm
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:410)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:478)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:82)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:343)
+	at ho.c(DedicatedServer.java:49)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:461)
+	at fy.run(SourceFile:856)
+Caused by: java.lang.ClassNotFoundException: bdm
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:141)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 29 more
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at codechicken.core.asm.ClassHeirachyManager.transform(ClassHeirachyManager.java:80)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.runTransformers(RelaunchClassLoader.java:178)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:133)
+	... 31 more
+2012-12-18 16:32:57 [SEVERE] This crash report has been saved to: C:\Users\Andrea\Desktop\Server1.4.5 - Copia\.\crash-reports\crash-2012-12-18_16.32.57-server.txt
+2012-12-18 16:35:47 [INFO] Starting minecraft server version 1.4.5
+2012-12-18 16:35:49 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: bdm
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:410)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:478)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:82)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:343)
+	at ho.c(DedicatedServer.java:49)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:461)
+	at fy.run(SourceFile:856)
+Caused by: java.lang.ClassNotFoundException: bdm
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:141)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 29 more
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at codechicken.core.asm.ClassHeirachyManager.transform(ClassHeirachyManager.java:80)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.runTransformers(RelaunchClassLoader.java:178)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:133)
+	... 31 more
+2012-12-18 16:35:49 [SEVERE] This crash report has been saved to: C:\Users\Andrea\Desktop\Server1.4.5 - Copia\.\crash-reports\crash-2012-12-18_16.35.49-server.txt
+2012-12-18 16:36:23 [INFO] Starting minecraft server version 1.4.5
+2012-12-18 16:36:29 [INFO] Loading properties
+2012-12-18 16:36:29 [INFO] Default game type: SURVIVAL
+2012-12-18 16:36:29 [INFO] Generating keypair
+2012-12-18 16:36:29 [INFO] Starting Minecraft server on *:25565
+2012-12-18 16:36:32 [INFO] Preparing level "world"
+2012-12-18 16:36:33 [INFO] Preparing start region for level 0
+2012-12-18 16:36:34 [INFO] Preparing spawn area: 17%
+2012-12-18 16:36:35 [INFO] Preparing spawn area: 36%
+2012-12-18 16:36:36 [INFO] Preparing spawn area: 50%
+2012-12-18 16:36:37 [INFO] Preparing spawn area: 71%
+2012-12-18 16:36:38 [INFO] Preparing spawn area: 91%
+2012-12-18 16:36:39 [INFO] Done (6,907s)! For help, type "help" or "?"
+2012-12-18 16:36:58 [INFO] Stopping the server
+2012-12-18 16:36:58 [INFO] Stopping server
+2012-12-18 16:36:58 [INFO] Saving players
+2012-12-18 16:36:58 [INFO] Saving worlds
+2012-12-18 16:36:58 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-18 16:36:58 [INFO] Saving chunks for level 'world'/Nether
+2012-12-18 16:37:00 [INFO] Stopping server
+2012-12-18 16:37:00 [INFO] Saving players
+2012-12-18 16:37:00 [INFO] Saving worlds
